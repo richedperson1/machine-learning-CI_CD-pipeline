@@ -1,0 +1,13 @@
+setup.py
+housing/__init__.py
+housing/component/__init__.py
+housing/config/__init__.py
+housing/entity/__init__.py
+housing/exception/__init__.py
+housing/logger/__init__.py
+housing/pipeline/__init__.py
+machineLearningFirstPackage.egg-info/PKG-INFO
+machineLearningFirstPackage.egg-info/SOURCES.txt
+machineLearningFirstPackage.egg-info/dependency_links.txt
+machineLearningFirstPackage.egg-info/requires.txt
+machineLearningFirstPackage.egg-info/top_level.txt
