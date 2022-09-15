@@ -3,3 +3,7 @@ housingLogs/
 dist/
 __pycache__/
 zexample.py
+*.egg
+*.egg-info/
+pip-wheel-metadata/
+share/python-wheels/
